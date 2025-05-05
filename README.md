@@ -7,12 +7,12 @@
     body {
       font-family: Arial, sans-serif;
       margin: 30px;
-      background-color: #1e1e2f;
-      color: #f0f0f0;
+      background-color: #ffffff;
+      color: #333333;
     }
     h1 {
       text-align: center;
-      color: #00d1b2;
+      color: #0066cc;
     }
     form, table {
       max-width: 700px;
@@ -22,13 +22,13 @@
       padding: 10px;
       margin: 5px;
       width: calc(100% - 22px);
-      border: 1px solid #333;
+      border: 1px solid #cccccc;
       border-radius: 5px;
-      background-color: #2e2e3f;
-      color: #f0f0f0;
+      background-color: #f5f5f5;
+      color: #333333;
     }
     button {
-      background-color: #00d1b2;
+      background-color: #0066cc;
       border: none;
       color: #fff;
       cursor: pointer;
@@ -37,16 +37,16 @@
       width: 100%;
       border-collapse: collapse;
       margin-top: 20px;
-      background: #2e2e3f;
-      box-shadow: 0 0 10px #000;
+      background: #f9f9f9;
+      box-shadow: 0 0 10px #ccc;
     }
     th, td {
       padding: 10px;
       text-align: center;
-      border: 1px solid #444;
+      border: 1px solid #dddddd;
     }
     th {
-      background-color: #00d1b2;
+      background-color: #0066cc;
       color: #fff;
     }
     #saldo {
@@ -54,10 +54,10 @@
       font-size: 1.4em;
       font-weight: bold;
       margin-top: 20px;
-      color: #00d1b2;
+      color: #0066cc;
     }
     .btn-excluir {
-      background-color: #ff3860;
+      background-color: #cc0000;
       color: white;
       border: none;
       padding: 5px 10px;
